@@ -4,7 +4,7 @@
 
 | Name           | Student Number |
 | -------------- | -------------- |
-| Matthew Ariho  |                |
+| Matthew Ariho  |   301374078    |
 | Reid Beaulieu  |   301311954    |
 | Pranjal Biswas |   301374343    |
 | Jagan Lidder   |   301374316    |
